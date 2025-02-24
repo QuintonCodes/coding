@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|c:\\users\\kagis\\onedrive\\documents\\eduvos\\year 2\\modules\\itpca2-b12\\project 1\\programs\\eduvosstudentregistrationsystem\\showstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|solutionrelative:showstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|c:\\users\\kagis\\onedrive\\documents\\eduvos\\year 2\\modules\\itpca2-b12\\project 1\\programs\\eduvosstudentregistrationsystem\\showstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|solutionrelative:showstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|c:\\users\\kagis\\onedrive\\documents\\eduvos\\year 2\\modules\\itpca2-b12\\project 1\\programs\\eduvosstudentregistrationsystem\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C68283-1929-472A-8163-55366EE3D988}|EduvosStudentRegistrationSystem.csproj|solutionrelative:addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowStudents.cs",
+              "DocumentMoniker": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\ShowStudents.cs",
+              "RelativeDocumentMoniker": "ShowStudents.cs",
+              "ToolTip": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\ShowStudents.cs*",
+              "RelativeToolTip": "ShowStudents.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:51:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\ShowStudents.cs",
+              "RelativeDocumentMoniker": "ShowStudents.cs",
+              "ToolTip": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\ShowStudents.cs [Design]*",
+              "RelativeToolTip": "ShowStudents.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:51:05.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudents.cs",
+              "DocumentMoniker": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\AddStudents.cs",
+              "RelativeDocumentMoniker": "AddStudents.cs",
+              "ToolTip": "C:\\Users\\kagis\\OneDrive\\Documents\\Eduvos\\Year 2\\Modules\\ITPCA2-B12\\Project 1\\Programs\\EduvosStudentRegistrationSystem\\AddStudents.cs",
+              "RelativeToolTip": "AddStudents.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:49:36.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

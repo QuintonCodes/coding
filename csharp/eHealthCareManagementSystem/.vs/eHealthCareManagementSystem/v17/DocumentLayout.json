@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kagis\\coding\\csharp\\eHealthCareManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE07C832-D123-48DB-A1C6-8B11AF712BF3}|eHealthCareManagementSystem\\eHealthCareManagementSystem.csproj|c:\\users\\kagis\\coding\\csharp\\ehealthcaremanagementsystem\\ehealthcaremanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE07C832-D123-48DB-A1C6-8B11AF712BF3}|eHealthCareManagementSystem\\eHealthCareManagementSystem.csproj|solutionrelative:ehealthcaremanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE07C832-D123-48DB-A1C6-8B11AF712BF3}|eHealthCareManagementSystem\\eHealthCareManagementSystem.csproj|c:\\users\\kagis\\coding\\csharp\\ehealthcaremanagementsystem\\ehealthcaremanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE07C832-D123-48DB-A1C6-8B11AF712BF3}|eHealthCareManagementSystem\\eHealthCareManagementSystem.csproj|solutionrelative:ehealthcaremanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kagis\\coding\\csharp\\eHealthCareManagementSystem\\eHealthCareManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "eHealthCareManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\kagis\\coding\\csharp\\eHealthCareManagementSystem\\eHealthCareManagementSystem\\Form1.cs",
+              "RelativeToolTip": "eHealthCareManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:06:34.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kagis\\coding\\csharp\\eHealthCareManagementSystem\\eHealthCareManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "eHealthCareManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\kagis\\coding\\csharp\\eHealthCareManagementSystem\\eHealthCareManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "eHealthCareManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:43:47.919Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

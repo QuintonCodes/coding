@@ -1,0 +1,45 @@
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe.config
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.pdb
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.AssemblyReference.cache
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.AddStudents.resources
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.homePage.resources
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.Properties.Resources.resources
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.ShowStudents.resources
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.GenerateResource.cache
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.exe
+D:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.pdb
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe.config
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.exe
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.pdb
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csprojResolveAssemblyReference.cache
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.AddStudents.resources
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.homePage.resources
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.Properties.Resources.resources
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.ShowStudents.resources
+F:\Work\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.GenerateResource.Cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe.config
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.pdb
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.AddStudents.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.homePage.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.Properties.Resources.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.ShowStudents.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.pdb
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe.config
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\bin\Debug\EduvosStudentRegistrationSystem.pdb
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.AddStudents.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.homePage.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.Properties.Resources.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.ShowStudents.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Project 1\Programs\EduvosStudentRegistrationSystem\obj\Debug\EduvosStudentRegistrationSystem.pdb

@@ -1,0 +1,57 @@
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe.config
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.pdb
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csprojResolveAssemblyReference.cache
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.mainWindow.resources
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.Properties.Resources.resources
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.GenerateResource.Cache
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.exe
+F:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.pdb
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe.config
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.pdb
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.AssemblyReference.cache
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.mainWindow.resources
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.Properties.Resources.resources
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.GenerateResource.cache
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.CoreCompileInputs.cache
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.exe
+E:\Work\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.pdb
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe.config
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.pdb
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.mainWindow.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.Properties.Resources.resources
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthC.4A2DD3C2.Up2Date
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.exe
+C:\Users\kagis\OneDrive\Documents\Eduvos\Year 2\Modules\ITPCA2-B12\Programs\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.pdb
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe.config
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.exe
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\eHealthCareManagementSystem.pdb
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.mainWindow.resources
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.Properties.Resources.resources
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthC.4A2DD3C2.Up2Date
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.exe
+C:\Users\kagis\coding\csharp\eHealthCareManagementSystem\eHealthCareManagementSystem\obj\Debug\eHealthCareManagementSystem.pdb
