@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4M8+A5yVfE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kagis\\my-projects\\csharp-web-api\\csharp-web-api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  No such host is known. (api.nuget.org:443)\r\n  No such host is known.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    }
+  ]
+}
