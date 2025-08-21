@@ -1,0 +1,31 @@
+﻿@model List<AdminUser>
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-controller="Auth" asp-action="Login" method="post">
+    <div class="form-group">
+        <label>Username</label>
+        <input name="username" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input name="password" type="password" class="form-control" required />
+    </div>
+
+    <br/>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+
+    <a asp-controller="Home" asp-action="Index" class="btn btn-link">Back to Home</a>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+}
