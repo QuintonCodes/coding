@@ -1,0 +1,24 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning / stats (for later tasks)
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard (later task)
+streamlit
+
+# API requests
+requests
+beautifulsoup4
+
+# Database integration (later)
+sqlalchemy
